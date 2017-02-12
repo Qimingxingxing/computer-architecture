@@ -1,0 +1,3 @@
+g++ mips.cpp -o mips
+no need for other commands...
+A sample instruction set is provided
